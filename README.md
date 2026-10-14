@@ -5,6 +5,7 @@ InfraFlow is an independent product and project management case study exploring 
 ## Key Focus Areas
 - Migration planning and dependency mapping
 - Risk and issue management
+
 - Project governance and change approvals
 - Milestone tracking and stakeholder reporting
 
@@ -16,3 +17,4 @@ InfraFlow is an independent product and project management case study exploring 
 Project Management · Business Analysis · PMO Governance · Requirements Analysis · Risk Management
 
 **Project Status:** Concept and product definition; workflows and features are proposed, not yet implemented.
+<img width="1000" height="1500" alt="INFRA-FLOW" src="https://github.com/user-attachments/assets/1bbd5a42-530e-49ca-8018-e7af2cc9cf8c" />
